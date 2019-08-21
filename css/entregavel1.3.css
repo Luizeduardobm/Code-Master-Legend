@@ -1,0 +1,843 @@
+body .cristologo{
+    position: absolute;
+    height: 35%;
+    right: 215px;
+    top: 70px;
+}
+body .imejrlogo
+{
+position: absolute;
+height: 22%;
+top: 30px;
+right: 760px;
+}
+.viagem{
+    height: 60px;
+    width: 36.6%;
+    position: absolute;
+    left: 433px;
+    top: 220px
+
+}
+.PT{
+    font-family: 'Droid Sans','Trebuchet MS',Verdana,Tahoma,Arial;
+    color:#00BFFF;
+    position: absolute;
+    top:210px;
+    left: 550px;
+}
+body .Bordainferior{
+        position: absolute;
+        top: 618px;
+        width: 500px;
+        left: 433px;
+        height: 7px;
+    }
+body .cristoredentor1{
+    position: absolute;
+    height: 140px;
+    width: 210px;
+    top: 310px;
+    right: 710px;
+    border-color:white;
+    border-radius: 10px; 
+}
+body .maracana1{
+    position: absolute;
+    top: 310px;
+    right: 450px;
+    height: 140px;
+    width: 210px;
+    border-color:white;
+    border-radius: 10px; 
+}
+body .arraial1{
+    position: absolute;
+    top: 480px;
+    right: 450px;
+    height: 140px;
+    width: 210px; 
+    border-color:white;
+    border-radius: 10px;  
+}
+ .paodeacucar1{
+    position: absolute;
+    top: 480px;
+    right: 710px;
+    height: 140px;
+    width: 210px;  
+    border-radius: 10px; 
+ }      
+.paodeacucar1:hover{
+    box-shadow: 0 0 3px black;
+}
+
+.maracana1:hover{
+    box-shadow: 0 0 3px black;
+}
+.arraial1:hover{
+    box-shadow: 0 0 3px black;
+}
+.cristoredentor1:hover{
+    box-shadow: 0 0 3px black;
+}
+.Arraias{
+    position:absolute;
+    top:450px;
+    right: 500px;
+    font-size: 15px;
+    color: white;
+
+}
+.CR{
+    position:absolute;
+    top:280px;
+    left: 500px;
+    font-size: 15px;
+    color: white;
+}
+.Maraca{
+    position:absolute;
+    top:280px;
+    right: 520px;
+    font-size: 15px;
+    color: white;
+}
+.PdA{
+    position:absolute;
+    top:450px;
+    left:500px;
+    font-size: 15px;
+    color: white;
+}
+.texto{
+    position: absolute;
+    top: 10px;
+    right: 500px;
+    font-size: 20px;
+    width: 150px;
+    color: white;
+}
+.botaopda{
+    height: 150px;
+    width: 226px;
+    position: absolute;
+    border-radius: 10%;
+    top:475px;
+    left:440px;
+    background-color: transparent;
+    border-color: transparent;
+    cursor: pointer;
+    
+}
+.botaomara{
+    height: 150px;
+    width: 226px;
+    position: absolute;
+    border-radius: 10%;
+    top:310px;
+    left:700px;
+    background-color: transparent;
+    border-color: transparent;
+    cursor: pointer;
+    
+}
+.botaoar{
+    height: 150px;
+    width: 226px;
+    position: absolute;
+    border-radius: 10%;
+    top:475px;
+    left:700px;
+    background-color: transparent;
+    border-color: transparent;
+    cursor: pointer;
+    
+}
+.botaocr{
+    height: 150px;
+    width: 226px;
+    position: absolute;
+    border-radius: 10%;
+    top:310px;
+    left:440px;
+    background-color: transparent;
+    border-color: transparent;
+    cursor: pointer;
+    
+}
+.botaocr:hover{
+    box-shadow: 0 0 3px black;
+}
+.botaoar:hover{
+    box-shadow: 0 0 3px black;
+}
+.botaomara:hover{
+    box-shadow: 0 0 3px black;
+}
+.botaopda:hover{
+    box-shadow: 0 0 3px black;
+}
+.botaoimagem{
+    border-radius: 10%;
+}
+.fundo1{
+    position: absolute;
+    left: 0px;
+    top:0px;
+    width:72px;
+}
+.fundo2{
+    position: absolute;
+    left:72px;
+    top:0px;
+    width:72px;
+}
+.fundo3{
+    position: absolute;
+    left: 144px;
+    top:0px;
+    width:72px;
+}
+.fundo4{
+    position: absolute;
+    left: 216px;
+    top:0px;
+    width:72px;
+}
+.fundo5{
+    position: absolute;
+    left: 288px;
+    top:0px;
+    width:72px;
+}
+.fundo6{
+    position: absolute;
+    left: 360px;
+    top:0px;
+    width:72px;
+}
+.fundo11{
+    position: absolute;
+    left: 0px;
+    top:72px;
+    width:72px;
+}
+.fundo21{
+    position: absolute;
+    left:72px;
+    top:72px;
+    width:72px;
+}
+.fundo31{
+    position: absolute;
+    left: 144px;
+    top:72px;
+    width:72px;
+}
+.fundo41{
+    position: absolute;
+    left: 216px;
+    top:72px;
+    width:72px;
+}
+.fundo51{
+    position: absolute;
+    left: 288px;
+    top:72px;
+    width:72px;
+}
+.fundo61{
+    position: absolute;
+    left: 360px;
+    top:72px;
+    width:72px;
+}
+.fundo12{
+    position: absolute;
+    left: 0px;
+    top:144px;
+    width:72px;
+}
+.fundo22{
+    position: absolute;
+    left:72px;
+    top:144px;
+    width:72px;
+}
+.fundo32{
+    position: absolute;
+    left: 144px;
+    top:144px;
+    width:72px;
+}
+.fundo42{
+    position: absolute;
+    left: 216px;
+    top:144px;
+    width:72px;
+}
+.fundo52{
+    position: absolute;
+    left: 288px;
+    top:144px;
+    width:72px;
+}
+.fundo62{
+    position: absolute;
+    left: 360px;
+    top:144px;
+    width:72px;
+}
+.fundo13{
+    position: absolute;
+    left: 0px;
+    top:216px;
+    width:72px;
+}
+.fundo23{
+    position: absolute;
+    left:72px;
+    top:216px;
+    width:72px;
+}
+.fundo33{
+    position: absolute;
+    left: 144px;
+    top:216px;
+    width:72px;
+}
+.fundo43{
+    position: absolute;
+    left: 216px;
+    top:216px;
+    width:72px;
+}
+.fundo53{
+    position: absolute;
+    left: 288px;
+    top:216px;
+    width:72px;
+}
+.fundo63{
+    position: absolute;
+    left: 360px;
+    top:216px;
+    width:72px;
+}
+.fundo14{
+    position: absolute;
+    left: 0px;
+    top:288px;
+    width:72px;
+}
+.fundo24{
+    position: absolute;
+    left:72px;
+    top:288px;
+    width:72px;
+}
+.fundo34{
+    position: absolute;
+    left: 144px;
+    top:288px;
+    width:72px;
+}
+.fundo44{
+    position: absolute;
+    left: 216px;
+    top:288px;
+    width:72px;
+}
+.fundo54{
+    position: absolute;
+    left: 288px;
+    top:288px;
+    width:72px;
+}
+.fundo64{
+    position: absolute;
+    left: 360px;
+    top:288px;
+    width:72px;
+}
+.fundo15{
+    position: absolute;
+    left: 0px;
+    top:360px;
+    width:72px;
+}
+.fundo25{
+    position: absolute;
+    left:72px;
+    top:360px;
+    width:72px;
+}
+.fundo35{
+    position: absolute;
+    left: 144px;
+    top:360px;
+    width:72px;
+}
+.fundo45{
+    position: absolute;
+    left: 216px;
+    top:360px;
+    width:72px;
+}
+.fundo55{
+    position: absolute;
+    left: 288px;
+    top:360px;
+    width:72px;
+}
+.fundo65{
+    position: absolute;
+    left: 360px;
+    top:360px;
+    width:72px;
+}
+.fundo16{
+    position: absolute;
+    left: 0px;
+    top:432px;
+    width:72px;
+}
+.fundo26{
+    position: absolute;
+    left:72px;
+    top:432px;
+    width:72px;
+}
+.fundo36{
+    position: absolute;
+    left: 144px;
+    top:432px;
+    width:72px;
+}
+.fundo46{
+    position: absolute;
+    left: 216px;
+    top:432px;
+    width:72px;
+}
+.fundo56{
+    position: absolute;
+    left: 288px;
+    top:432px;
+    width:72px;
+}
+.fundo66{
+    position: absolute;
+    left: 360px;
+    top:432px;
+    width:72px;
+}
+.fundo17{
+    position: absolute;
+    left: 0px;
+    top:504px;
+    width:72px;
+}
+.fundo27{
+    position: absolute;
+    left:72px;
+    top:504px;
+    width:72px;
+}
+.fundo37{
+    position: absolute;
+    left: 144px;
+    top:504px;
+    width:72px;
+}
+.fundo47{
+    position: absolute;
+    left: 216px;
+    top:504px;
+    width:72px;
+}
+.fundo57{
+    position: absolute;
+    left: 288px;
+    top:504px;
+    width:72px;
+}
+.fundo67{
+    position: absolute;
+    left: 360px;
+    top:504px;
+    width:72px;
+}
+.fundo18{
+    position: absolute;
+    left: 0px;
+    top:576px;
+    width:72px;
+    height: 49px;
+}
+.fundo28{
+    position: absolute;
+    left:72px;
+    top:576px;
+    width:72px;
+    height: 49px;
+}
+.fundo38{
+    position: absolute;
+    left: 144px;
+    top:576px;
+    width:72px;
+    height: 49px;
+}
+.fundo48{
+    position: absolute;
+    left: 216px;
+    top:576px;
+    width:72px;
+    height: 49px;
+}
+.fundo58{
+    position: absolute;
+    left: 288px;
+    top:576px;
+    width:72px;
+    height: 49px;
+}
+.fundo68{
+    position: absolute;
+    left: 360px;
+    top:576px;
+    width:72px;
+    height: 49px;
+}
+.fundos1{
+    position: absolute;
+    right: 0px;
+    top:0px;
+    width:72px;
+}
+.fundos2{
+    position: absolute;
+    right:72px;
+    top:0px;
+    width:72px;
+}
+.fundos3{
+    position: absolute;
+    right: 144px;
+    top:0px;
+    width:72px;
+}
+.fundos4{
+    position: absolute;
+    right: 216px;
+    top:0px;
+    width:72px;
+}
+.fundos5{
+    position: absolute;
+    right: 288px;
+    top:0px;
+    width:72px;
+}
+.fundos6{
+    position: absolute;
+    right: 360px;
+    top:0px;
+    width:72px;
+}
+.fundos11{
+    position: absolute;
+    right: 0px;
+    top:72px;
+    width:72px;
+}
+.fundos21{
+    position: absolute;
+    right:72px;
+    top:72px;
+    width:72px;
+}
+.fundos31{
+    position: absolute;
+    right: 144px;
+    top:72px;
+    width:72px;
+}
+.fundos41{
+    position: absolute;
+    right: 216px;
+    top:72px;
+    width:72px;
+}
+.fundos51{
+    position: absolute;
+    right: 288px;
+    top:72px;
+    width:72px;
+}
+.fundos61{
+    position: absolute;
+    right: 360px;
+    top:72px;
+    width:72px;
+}
+.fundos12{
+    position: absolute;
+    right: 0px;
+    top:144px;
+    width:72px;
+}
+.fundos22{
+    position: absolute;
+    right:72px;
+    top:144px;
+    width:72px;
+}
+.fundos32{
+    position: absolute;
+    right: 144px;
+    top:144px;
+    width:72px;
+}
+.fundos42{
+    position: absolute;
+    right: 216px;
+    top:144px;
+    width:72px;
+}
+.fundos52{
+    position: absolute;
+    right: 288px;
+    top:144px;
+    width:72px;
+}
+.fundos62{
+    position: absolute;
+    right: 360px;
+    top:144px;
+    width:72px;
+}
+.fundos13{
+    position: absolute;
+    right: 0px;
+    top:216px;
+    width:72px;
+}
+.fundos23{
+    position: absolute;
+    right:72px;
+    top:216px;
+    width:72px;
+}
+.fundos33{
+    position: absolute;
+    right: 144px;
+    top:216px;
+    width:72px;
+}
+.fundos43{
+    position: absolute;
+    right: 216px;
+    top:216px;
+    width:72px;
+}
+.fundos53{
+    position: absolute;
+    right: 288px;
+    top:216px;
+    width:72px;
+}
+.fundos63{
+    position: absolute;
+    right: 360px;
+    top:216px;
+    width:72px;
+}
+.fundos14{
+    position: absolute;
+    right: 0px;
+    top:288px;
+    width:72px;
+}
+.fundos24{
+    position: absolute;
+    right:72px;
+    top:288px;
+    width:72px;
+}
+.fundos34{
+    position: absolute;
+    right: 144px;
+    top:288px;
+    width:72px;
+}
+.fundos44{
+    position: absolute;
+    right: 216px;
+    top:288px;
+    width:72px;
+}
+.fundos54{
+    position: absolute;
+    right: 288px;
+    top:288px;
+    width:72px;
+}
+.fundos64{
+    position: absolute;
+    right: 360px;
+    top:288px;
+    width:72px;
+}
+.fundos15{
+    position: absolute;
+    right: 0px;
+    top:360px;
+    width:72px;
+}
+.fundos25{
+    position: absolute;
+    right:72px;
+    top:360px;
+    width:72px;
+}
+.fundos35{
+    position: absolute;
+    right: 144px;
+    top:360px;
+    width:72px;
+}
+.fundos45{
+    position: absolute;
+    right: 216px;
+    top:360px;
+    width:72px;
+}
+.fundos55{
+    position: absolute;
+    right: 288px;
+    top:360px;
+    width:72px;
+}
+.fundos65{
+    position: absolute;
+    right: 360px;
+    top:360px;
+    width:72px;
+}
+.fundos16{
+    position: absolute;
+    right: 0px;
+    top:432px;
+    width:72px;
+}
+.fundos26{
+    position: absolute;
+    right:72px;
+    top:432px;
+    width:72px;
+}
+.fundos36{
+    position: absolute;
+    right: 144px;
+    top:432px;
+    width:72px;
+}
+.fundos46{
+    position: absolute;
+    right: 216px;
+    top:432px;
+    width:72px;
+}
+.fundos56{
+    position: absolute;
+    right: 288px;
+    top:432px;
+    width:72px;
+}
+.fundos66{
+    position: absolute;
+    right: 360px;
+    top:432px;
+    width:72px;
+}
+.fundos17{
+    position: absolute;
+    right: 0px;
+    top:504px;
+    width:72px;
+}
+.fundos27{
+    position: absolute;
+    right:72px;
+    top:504px;
+    width:72px;
+}
+.fundos37{
+    position: absolute;
+    right: 144px;
+    top:504px;
+    width:72px;
+}
+.fundos47{
+    position: absolute;
+    right: 216px;
+    top:504px;
+    width:72px;
+}
+.fundos57{
+    position: absolute;
+    right: 288px;
+    top:504px;
+    width:72px;
+}
+.fundos67{
+    position: absolute;
+    right: 360px;
+    top:504px;
+    width:72px;
+}
+.fundos18{
+    position: absolute;
+    right: 0px;
+    top:576px;
+    width:72px;
+    height: 49px;
+}
+.fundos28{
+    position: absolute;
+    right:72px;
+    top:576px;
+    width:72px;
+    height: 49px;
+}
+.fundos38{
+    position: absolute;
+    right: 144px;
+    top:576px;
+    width:72px;
+    height: 49px;
+}
+.fundos48{
+    position: absolute;
+    right: 216px;
+    top:576px;
+    width:72px;
+    height: 49px;
+}
+.fundos58{
+    position: absolute;
+    right: 288px;
+    top:576px;
+    width:72px;
+    height: 49px;
+}
+.fundos68{
+    position: absolute;
+    right: 360px;
+    top:576px;
+    width:72px;
+    height: 49px;
+}

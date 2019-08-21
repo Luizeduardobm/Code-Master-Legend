@@ -1,0 +1,91 @@
+
+body img
+{
+position: absolute;
+height: 20%;
+right: 630px;
+}
+input{
+    background-color: transparent;
+    
+}
+::placeholder{
+    color:white;
+    opacity: 1;
+}
+.Firstname{
+    padding: 0;
+    width: 460px;
+    height: 35px;
+    overflow: hidden;
+    position:absolute;
+    top: 200px;
+    right: 450px;
+    border-color: white;
+    box-shadow: 1px;
+    
+}
+
+.Secondname{
+    padding: 0;
+    width: 460px;
+    height: 35px;
+    overflow: hidden;
+    position:absolute;
+    top: 250px;
+    right: 450px;
+}
+.Email{
+    padding: 0;
+    width: 460px;
+    height: 35px;
+    overflow: hidden;
+    position:absolute;
+    top: 300px;
+    right: 450px;
+}
+.Password{    
+    padding: 0;
+    width: 460px;
+    height: 35px;
+    position:absolute;
+    top: 350px;
+    right: 450px;}
+.Confirmation{
+    padding: 0;
+    width: 460px;
+    height: 35px;
+    overflow: hidden;
+    position:absolute;
+    top: 400px;
+    right: 450px;
+}    
+.botao {
+    width: 150px;
+    height: 35px;
+    position:absolute;
+    top: 480px;
+    right:610px;
+
+    border-radius: 15px;
+    background-color:transparent;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color:#ffffff;
+   
+}
+.botao:hover{
+box-shadow: 0 0 4px #000080;
+}
+.Fim
+{
+position: absolute;
+top:520px;
+right:590px;
+color: white;
+
+}
+.Login:hover{
+    text-shadow: 0 0 4px #000080;
+}
